@@ -3,7 +3,7 @@
 'HI THERE, I'M JHKIM👋'
 -------
 	   
-Hi, I'm beginner in Coding! I will learn and do like **'Day1'**     
+Hi, I'm Coding Lover! I'am learning hard and do like **'Day1'**     
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/good_zero_/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:gyjh486@gmail.com)
