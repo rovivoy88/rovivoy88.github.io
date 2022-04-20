@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ON%20WORLD&fontSize=90)
 
-print('HI THERE, I'M JHKIM👋')
+'HI THERE, I'M JHKIM👋'
 -------
 	   
 Hi, I'm beginner in Coding! I will learn and do like **'Day1'**     
@@ -39,7 +39,7 @@ Hi, I'm beginner in Coding! I will learn and do like **'Day1'**
 <br/>
   
  
-#### Soon...
+## 🐣 Soon...
 
 #### Python Web
 <div align=left>
