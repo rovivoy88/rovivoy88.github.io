@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "Great Human Being"
 title_separator          : "|"
 subtitle                 : "Start with me"
@@ -108,9 +108,9 @@ author:
   location         : "Great Seoul City"
   email            : "gyjh486@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "gyjh486@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "gyjh486@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rovivoy88.github.io/"
