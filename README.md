@@ -27,6 +27,10 @@ Always start with you
   
 ## 💻 Working On It!
 
+#### connect with me 
+<img src="https://img.shields.io/badge/Android-181717?style=flat-square&logo=GitHub&logoColor=black"/>
+
+
 #### Web
 <div align=left>     
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
