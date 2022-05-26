@@ -3,16 +3,21 @@
 'HI THERE, I'M Rovi Kim👋'
 -------
 	   
-Hi, I'm Coding Lover! I'am still learning and do like **'Day1'**     
+Hi, I'm Coding Lover! I'am still learning and do like **'Day1'**
+Always start with you      
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/good_zero_/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rovivoy/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:gyjh486@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})]({link})
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})](https://rovivoy88.github.io/)
 <br/>
 <br/>
 ## 🙇🏻‍♂️ Bio
 
-- my major was english literature, had worked in coffee industry
+- I'm born in South Korea, develop my life on NewZealand
+- I really love commite everyting, communication with you
+- My major was english literature, had worked in coffee industry 
+- certificate finance Big data analyst form Ubion AI Lab
+- Welcome to my GitHub, enjoy your life
 <div align=left>
     <img alt="" src="https://simpleicons.org/icons/buymeacoffee.svg" width=5%>  
         
