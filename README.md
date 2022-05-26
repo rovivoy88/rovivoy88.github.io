@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ON%20WORLD&fontSize=90)
 
-'HI THERE, I'M JHKIM👋'
+'HI THERE, I'M Rovi Kim👋'
 -------
 	   
 Hi, I'm Coding Lover! I'am still learning and do like **'Day1'**     
