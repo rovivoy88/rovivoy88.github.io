@@ -2,6 +2,7 @@
 layout: single
 title:  "# 1. 아이디어 회의"
 categories : hackaton
+tags: hackaton
 toc: true
 ---
 
